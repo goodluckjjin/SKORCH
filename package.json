@@ -4,7 +4,7 @@
 	"description": " my first project with soo",
 	"main": "index.js",
 	"scripts": {
-		"sass": "node-sass -w public/sass/style.scss public/css/style.min.css --output-style compressed"
+		"sass": "node-sass -w sass/style.scss css/style.min.css --output-style compressed"
 	},
 	"repository": {
 		"type": "git",
